@@ -1,5 +1,12 @@
 
-No idea what to put here
+public class Animal() {
+	private String name;
+	private int age;
 
+	public Animal(String name, int age) {
+		this.name = name;
+		this.age = age;
+	}
+}
 
-test test test
+useless line
