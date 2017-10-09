@@ -2,3 +2,16 @@ Hello
 Testing Vim
 
 Adding a line
+
+
+
+
+
+
+
+
+
+
+
+
+Adding a line in file as to create a merge conflict with master
