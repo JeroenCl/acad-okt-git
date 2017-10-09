@@ -10,3 +10,5 @@ public class Animal() {
 }
 
 useless line
+
+## Adding a comment line for a second feature commit
