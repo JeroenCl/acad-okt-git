@@ -2,3 +2,5 @@ Hello
 Testing Vim
 
 Adding a line
+
+Adding a line in the feature branch
