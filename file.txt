@@ -15,5 +15,12 @@ Adding a line
 
 
 Adding a line in file as to create a merge conflict with master
+<<<<<<< HEAD
 Adding a line in the feature branch
 changing file remotely
+=======
+Adding a line in the feature branc
+
+
+h
+>>>>>>> d31dd42c30c492b2eb4fc77b451214e9baaa52db
